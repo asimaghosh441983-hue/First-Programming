@@ -1,4 +1,8 @@
 # First-Programming
 This is my first Repository
 <br>
-Author:- Shubhradeep Ghosh
+Ramakrishna Mission Vibekananda Centenary College
+<br>
+My name is Shubhradeep Ghosh
+<br>
+Physics Department
