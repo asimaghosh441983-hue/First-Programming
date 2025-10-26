@@ -3,6 +3,6 @@ This is my first Repository
 <br>
 Ramakrishna Mission Vibekananda Centenary College
 <br>
-My name is Shubhradeep Ghosh
+My name is Shubhradeep G
 <br>
 Physics Department
